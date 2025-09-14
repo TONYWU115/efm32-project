@@ -1,0 +1,1 @@
+gecko_sdk_4.4.5/platform/emlib/src/
